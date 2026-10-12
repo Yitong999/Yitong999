@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3D8DFF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Yitong+Tang+%F0%9F%91%8B;Finding+out+why+models+fail+%E2%80%94+and+fixing+them;Federated+learning+%C2%B7+Debiasing+%C2%B7+Robustness" alt="Hi, I'm Yitong Tang" />
 
-**UBC Computer Engineering '24** (Honours Math minor) · Vancouver, BC
+**@ ByteDance** · San Jose, CA · Columbia SEAS · UBC CPEN
 
 [![AAAI-24](https://img.shields.io/badge/AAAI--24-FedAW-3D8DFF?style=flat-square)](https://ojs.aaai.org/index.php/AAAI/article/view/30557)
 [![EvalRX](https://img.shields.io/badge/contributor-EvalRX-39A96B?style=flat-square)](https://github.com/evalvitals/evalrx)
@@ -17,6 +17,12 @@
 - 🩺 I build tools that **diagnose and repair ML models**. A score says *that* a model fails. I care about *why* it fails, and whether the fix holds on data the analysis never saw.
 - 🤝 I trained as a computer engineer and now work on federated learning, debiasing, adversarial robustness, and model evaluation.
 - 🌱 Right now: automated failure analysis for LLMs, VLMs and agents ([EvalRX](https://github.com/evalvitals/evalrx)), and deciding when multimodal sensor data should be fused at all.
+
+### 🧭 Journey
+
+- 💼 **ByteDance** · San Jose, CA · *2025 – present*
+- 🎓 **Columbia University**, Fu Foundation School of Engineering and Applied Science (SEAS) · *2024 – 2025*
+- 🎓 **University of British Columbia**, Computer Engineering (CPEN) · *2020 – 2024*
 
 ### 📌 Featured work
 
