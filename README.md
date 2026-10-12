@@ -24,9 +24,9 @@
 | :-- | :-- |
 | 🩺 **[EvalRX](https://github.com/evalvitals/evalrx)** | A self-improving loop that probes open-weight models for failures, tests hypotheses on held-out cases and keeps only repairs that beat the baseline. Works with LLMs, VLMs and agents. |
 | 🧩 **[FedAW](https://github.com/Yitong999/FedAW)** | *Adapted Weighted Aggregation in Federated Learning*. FedAW gives more aggregation weight to clients with less biased local data, for better accuracy and faster convergence on non-IID data. **AAAI-24** |
+| 📞 **[RingAI](https://ringai-rosy.vercel.app)** | An AI voice agent that makes real phone calls for you. Describe the task in any language; RingAI finds the number, gets through phone menus and hold music, talks to a person and shows a live transcript. Confirmed appointments go straight to your calendar. Built with Next.js, Supabase and OpenAI. [Live demo →](https://ringai-rosy.vercel.app) |
 | 🧠 **[Temporal-Evidential Conflict KG](https://github.com/Yitong999/temporal-evidential-conflict-kg)** | Should two sensor views be fused at all? A bitemporal conflict knowledge graph routes each disagreement to FUSE, DISCOUNT, SUPERSEDE or ABSTAIN. Tested on GLOBEM multimodal behaviour data. |
 | ⚔️ **[PGD Attack on CircuitNet](https://github.com/Yitong999/PGD-Attack-on-CircuitNet)** | PGD adversarial attacks, plus a targeted variant that fools one model and leaves another untouched. Extended to CircuitNet generative models. |
-| 📄 **[AI Resume](https://github.com/Yitong999/AI-resume)** | A Next.js app that turns a resume into a deployable personal website. Built with GPT-4o-mini, Prisma and shadcn/ui. |
 | 🎫 **[TicketTamer](https://github.com/Yitong999/TicketTamer)** | A maintenance-ticket system built with and for the UBC Chemistry Department. It handles submission, team hand-off, supervisor analytics and finance reports. |
 
 ### 📄 Publication
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
